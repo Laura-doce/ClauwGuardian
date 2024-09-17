@@ -16,8 +16,8 @@ export default function Menu(){
                                 aria-expanded="false" aria-label="Toggle navigation">
                             <span className="navbar-toggler-icon"></span>
                         </button>
-                        <div className=" item" id="navbarSupportedContent">
-                            <ul className="me-auto mb-2 mb-lg-0nav justify-content-end item">
+                        <div className="collapse navbar-collapse justify-content-end item" id="navbarSupportedContent">
+                            <ul className="justify-content-end item">
                                 <li className="nav-item item">
                                     <a className="nav-link" aria-current="page" href="../../pages/Index/index.js">Inicio</a>
                                 </li>

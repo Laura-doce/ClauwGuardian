@@ -1,9 +1,9 @@
 .hero {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     padding: 20px;
-    background-color: #dfdede;
+    background-color: #b8e0e3;
 }
 
 .hero-text {
@@ -24,8 +24,8 @@
     display: inline-block;
     padding: 10px 20px;
     font-size: 1rem;
-    color: #736301;
-    background-color: #fdf29d;
+    color:#29576b;
+    background-color: #97C5D8;
     text-decoration: none;
     border-radius: 5px;
 }

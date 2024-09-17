@@ -10,9 +10,6 @@ export default function Heroe1(){
                     <p>Descubre nuestras ofertas y servicios exclusivos.</p>
                     <a href="#more" className="cta-button">Conoce más</a>
                 </div>
-                <div className="hero-image">
-                    <img src={Mascota} alt=""/>
-                </div>
                 </section>
         </div>
 )

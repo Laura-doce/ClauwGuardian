@@ -1,5 +1,5 @@
 .menu {
-    background-color: #373636;
+    background-color: #506e8b;
     color: #ffffff;
     font-family: "Nunito", sans-serif;
     font-optical-sizing: auto;
@@ -22,7 +22,7 @@
 }
 
 .my-span{
-    color: #ffffff;
+    color: rgb(255, 255, 255);
     font-weight: bold;
     align-content: center;
     margin: 0;
@@ -39,7 +39,6 @@
 }
 
 .toggle {
-    background: #9a9999;
     border: none;
     color: #ffffff;
     font-size: 1.5em;
@@ -66,6 +65,6 @@
 }
 
 .item a:hover {
-    background-color: #555;
+    background-color: #305374e3;
     border-radius: 5px;
 }
